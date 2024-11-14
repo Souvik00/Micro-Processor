@@ -1,2 +1,2 @@
 # Micro-Processor
-## 1.Blinl the led in pc13
+## 1.Blink the led in pc13
